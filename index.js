@@ -1,3 +1,3 @@
- const element= React.createElement("h1",null,"Welcome to my web page");
-    const root = React-Dom.createRoot(document.getElementById("root"));
+ const element= React.createElement("h1",null,"Welcome to React");
+    const root = ReactDom.createRoot(document.getElementById("root"));
     root.render(element);
